@@ -71,6 +71,11 @@ https://github.com/rohanasan/rohanasan
 ### Join discord:
 https://discord.gg/Yg2A3mEret
 
+### Todo:
+- Add hot reload and a live server
+- Add js support
+- Add css support
+
 ## Contribution:
 
 https://www.buymeacoffee.com/rohanvashisht
