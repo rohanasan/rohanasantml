@@ -64,6 +64,13 @@ v run ./compiler.v ./your_input_file.rohanasantml ./your_output_file.html
 - V is recommend for performing compilation of huge rohanasantml files in milliseconds.
 - Python is recommended for .....
 
+## Checkout
+### Rohanasan: An extremely fast backend framework:
+https://github.com/rohanasan/rohanasan
+
+### Join discord:
+https://discord.gg/Yg2A3mEret
+
 ## Contribution:
 
 https://www.buymeacoffee.com/rohanvashisht
