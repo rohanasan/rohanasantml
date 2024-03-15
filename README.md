@@ -64,6 +64,14 @@ v run ./compiler.v ./your_input_file.rohanasantml ./your_output_file.html
 - V is recommend for performing compilation of huge rohanasantml files in milliseconds.
 - Python is recommended for .....
 
+# Features:
+- Helps code readibility
+- Gives you errors of mistakes that you might have made in your code. Such as:
+    - Did you forget to add a } at the end of line 15?
+    - Warning: Number of tags starting is greater than the number of tags ending.
+    - Warning: Number of tags ending is greater than the number of starting tags.
+- Helps make reliable html
+
 ## Checkout
 ### Rohanasan: An extremely fast backend framework:
 https://github.com/rohanasan/rohanasan
